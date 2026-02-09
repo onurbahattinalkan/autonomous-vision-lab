@@ -1,0 +1,25 @@
+# datasets
+**/train/
+**/test/
+**/valid/
+**/val/
+**/images/
+**/labels/
+
+# yolov8 outputs
+**/runs/
+
+# large/binary
+*.pt
+*.pth
+*.onnx
+*.zip
+*.rar
+*.7z
+
+# python cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env

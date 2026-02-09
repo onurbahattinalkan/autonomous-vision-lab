@@ -1,0 +1,2 @@
+
+stages ["histogram esitleme"] = eq
